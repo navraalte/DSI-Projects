@@ -9,11 +9,12 @@
 * Radical Transparency 
 
 ### Instructors
-Lead Instructors: [Vrushank Vora](vrushank.vora@generalassemb.ly), [Alex Barriga](alexander.barriga@generalassemb.ly)
+* [Vrushank Vora](vrushank.vora@generalassemb.ly)
+* [Alex Barriga](alexander.barriga@generalassemb.ly)
+* [Varsha Pullabhotla](varsha.p@generalassemb.ly)
 
-Junior Instructor: [Varsha Pullabhotla](varsha.p@generalassemb.ly)
-
-Evening TAs: TBD
+### Evening TAs: 
+TBD
 
 ### [Pre-work Materials](https://github.com/ga-students/DSI-SF-5/wiki/Weekly-Prework-Resources)
 * [Dataquest](https://www.dataquest.io/)
