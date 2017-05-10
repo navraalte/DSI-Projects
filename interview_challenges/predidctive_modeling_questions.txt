@@ -1,0 +1,32 @@
+### Predictive Modeling Interview Questions ###
+
+# Technical Questions
+
+1. What could be some issues if distribution of test data is significantly different than the distribution of the training data? 
+
+2. What are some ways I can make my model more robust to outliers? 
+
+3. What are some differences you would expect in a model that minimizes squared error, versus a model that minimizes absolute error? In which cases would each error metric be appropriate?
+
+4. What error metric would you use to evaluate how good a binary classifier is? What if the classes are imbalanced? What if there are more than 2 groups?
+
+5. What are various ways to predict a binary response vari-
+able? Can you compare two of them and tell me when one would be more appropriate? What’s the difference between these? (SVM, Logistic Regression, Naive Bayes, Decision Tree, etc.)
+
+6. What is regularization and where might it be helpful? What is an example of using regularization in a model?
+
+7. Why might it be preferable to include fewer predictors over many?
+
+# Problem Framing Questions 
+
+8. Given training data on tweets and their retweets, how would you predict the number of retweets of a given tweet after 7 days after only observing 2 days worth of data?
+
+9. How would you construct a feed to show relevant content for a site that involves user interactions with items?
+
+10. How would you design the people you may know feature on LinkedIn or Facebook?
+
+11. How would you predict who someone may want to send a Snapchat or Gmail to?
+
+12. How would you suggest to a franchise where to open a new store?
+
+13. In a search engine, given partial data on what the user hastyped, how would you predict the user’s eventual search query?
