@@ -16,7 +16,7 @@
 ### Evening TAs: 
 TBD
 
-### [Pre-work Materials](https://github.com/ga-students/DSI-SF-5/wiki/Weekly-Prework-Resources)
+### [Pre-work Materials](https://git.generalassemb.ly/DSI-SF-7/dsi-sf-7-materials/wiki/Pre-work-Material)
 * [Dataquest](https://www.dataquest.io/)
 * [MetaAcademy](https://metacademy.org)
 
